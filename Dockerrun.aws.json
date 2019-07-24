@@ -5,6 +5,7 @@
             "name": "client",
             "image": "serdarp/multi-client",
             "hostname": "client",
+            "essential": false,
             "memory": 128
         },
         {
